@@ -1,0 +1,26 @@
+PROJECT DESIGN:
+
+
+DIFFERENT DATA STRUCTURES USED:
+	MySymbolTable:
+		HashMap (java.util.HashMap)
+	
+	MySequence:
+		TreeSet (java.util.TreeSet)
+
+	StackDistCollector:
+		N/A
+
+	MyPriorityQueue:
+		TreeSet (weiss.util.TreeSet)
+		TreeMap (weiss.util.TreeMap)
+		Map (weiss.util.Map)
+		ArrayList (weiss.util.ArrayList)
+		Collections (weiss.util.Collections)
+	OPTCacheSimulator:
+		N/A
+
+
+	
+countNoSmallerThan Description:
+	calls the tailSet() method from tree set and then calls the size method of that.
