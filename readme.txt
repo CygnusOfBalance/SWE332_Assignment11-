@@ -1,4 +1,3 @@
-Noah Hansen
-G01028809
-CS310
-Lecture: 004
+CS332 Assignment 11
+Jack Schierling, Noah Hansen, Andriy Zasypkin
+11/27/18
