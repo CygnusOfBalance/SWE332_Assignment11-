@@ -1,5 +1,6 @@
 .DS_Store
 *.class
 .idea/
-inputs.zip
-*jar
+*.zip
+*.jar
+*.swp
